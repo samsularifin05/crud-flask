@@ -1,0 +1,10 @@
+python-dotenv
+flask-openapi3
+Flask-SQLAlchemy
+Flask-Migrate
+Flask-Seeder
+psycopg2-binary
+flask_jwt_extended
+Flask
+SQLAlchemy
+
